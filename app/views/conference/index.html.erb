@@ -1,0 +1,8 @@
+<% html_title(l(:conference)) -%>
+<h2><%= l(:conference) %></h2>
+<%= hidden_field_tag('project_id', @project.identifier) %>
+<% if !@error_message.nil? %>
+<%= @error_message %>
+<% elsif User.current.allowed_to?(:enter_conference, @project) %>
+<iframe src=<%= @link %> frameborder=0 height=640 width="100%"></iframe>
+<% end %>
