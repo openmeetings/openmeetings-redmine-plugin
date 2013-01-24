@@ -1,0 +1,9 @@
+<p><label><%= l(:url) %></label>
+<%= text_field_tag 'settings[url]', @settings['url'], :size => 80 %><br />
+</p>
+<p><label><%= l(:login) %></label>
+<%= text_field_tag 'settings[login]', @settings['login'], :size => 80 %><br />
+</p>
+<p><label><%= l(:password) %></label>
+<%= password_field_tag 'settings[password]', @settings['password'], :size => 80 %><br />
+</p>

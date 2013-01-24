@@ -1,0 +1,11 @@
+ru:
+  permission_enter_conference: "Вход в конференцию"
+  permission_moderate_conference: "Модерирование конференции"
+  project_module_conference: "Конференция"
+  conference: "Конференция"
+  error_connection_refused: "Соединение отклонено. Проверьте настройки плагина Openmeetings."
+  error_connection_timeout: "Превышено время ожидания соединения."
+  om_error: "Ошибка Openmeetings"
+  login: "логин"
+  password: "пароль"
+  url: "url"

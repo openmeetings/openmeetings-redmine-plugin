@@ -1,0 +1,11 @@
+en:
+  permission_enter_conference: "Enter to the conference"
+  permission_moderate_conference: "Moderate the conference"
+  project_module_conference: "Conference"
+  conference: "Conference"
+  error_connection_refused: "Connection refused. Please check Openmeetings plugin settings."
+  error_connection_timeout: "Connect timeout."
+  om_error: "Openmeetings error"
+  login: "login"
+  password: "password"
+  url: "url"
