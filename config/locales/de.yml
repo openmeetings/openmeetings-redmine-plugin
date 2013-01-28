@@ -1,0 +1,11 @@
+de:
+  permission_enter_conference: "Konferenz beitreten"
+  permission_moderate_conference: "Konferenz moderieren"
+  project_module_conference: "Konferenz"
+  conference: "Konferenz"
+  error_connection_refused: "Verbindung fehlgeschlagen. Bitte prüfen sie die Konferenzservereinstellungen."
+  error_connection_timeout: "Verbindungstimeout."
+  om_error: "Openmeetings Fehler"
+  login: "Login"
+  password: "Passwort"
+  url: "Url"
