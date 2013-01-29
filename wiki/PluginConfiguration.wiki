@@ -1,0 +1,30 @@
+= Plugin configuration =
+
+After installation login as admin and go to the administration section. Choose "Plugins options"
+
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine1.png">
+
+If the plugin installation is successful, you can see the plugin in the plugins list. Click "Configure" link to continue.
+
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine2.png">
+
+Now you should configure Openmeetings connection attributes: url, login and password. Make sure that the user has calling SOAP permissions. If you want to test the plugin without installing Openmeetings don't change attributes.
+
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine3.png">
+
+Save changes and return to the administration section. Select "Roles and permissions".
+
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine4.png">
+
+At this step you shoud add permissions to the roles. For example, users with role "Manager" will be allowed to enter the conference and moderate it; users with role "Developer" will be allowed to enter the conference only.
+
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine5.png">
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine6.png">
+
+After adding permissions to the roles go to the project settings and select "Modules" tab. Use "Conference" checkbox to enable/disable conference in your project.
+
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine8.png">
+
+After that you can use Openmeetings conference directly from Redmine
+
+<img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine10.png">
