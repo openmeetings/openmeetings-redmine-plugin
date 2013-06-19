@@ -17,7 +17,7 @@ Save changes and return to the administration section. Select "Roles and permiss
 
 <img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine4.png">
 
-At this step you shoud add permissions to the roles. For example, users with role "Manager" will be allowed to enter the conference and moderate it; users with role "Developer" will be allowed to enter the conference only.
+In this step you shoud add permissions to the roles. For example, users with role "Manager" will be allowed to enter the conference and moderate it; users with role "Developer" will be allowed to enter the conference only.
 
 <img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine5.png">
 <img src="http://svn.codespot.com/a/apache-extras.org/openmeetings-redmine-plugin/wiki/images/OMRedmine6.png">
